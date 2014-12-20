@@ -1,4 +1,8 @@
-Copyright (c) 2014 EuropeCoin Developers
+Copyright (c) 2014 EuropeCoin Developers & the europecoin.eu.org
+Community
+
+Branch "EuropeCoinEUorg" 
+12/2014 Matthias Klees
 
 EuropeCoin development tree
 EuropeCoin is a PoW/PoS-based cryptocurrency.
