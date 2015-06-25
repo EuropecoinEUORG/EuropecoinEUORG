@@ -372,7 +372,7 @@
            <item>
             <widget class="QLabel" name="tradeonbittrex">
              <property name="text">
-              <string>&lt;a href=&quot;https://comkort.com/trade/erc_btc&quot;&gt;Trade on Comkort&lt;/a&gt;</string>
+              <string>&lt;a href=&quot;https://bleutrade.com/exchange/ERC/BTC&quot;&gt;Trade on Bleutrade&lt;/a&gt;</string>
              </property>
              <property name="alignment">
               <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
